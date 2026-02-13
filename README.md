@@ -1,10 +1,10 @@
 # ORIC Hires Picture Editor
 
-A visual pixel editor for the [Tangerine ORIC](https://en.wikipedia.org/wiki/Oric) hires mode (240×200, 8 colours). Paint freely, then compile to apply ORIC hardware constraints via PictConv.
+A visual pixel editor for the [Tangerine ORIC](https://en.wikipedia.org/wiki/Oric) hires mode (240×200, 8 colours). Paint freely or load and edit image then compile to apply ORIC hardware constraints via OSDK PictConv. Read, write ad edit `.s` assembly files (`_LabelPicture` format). Uses OSDK for assembly, build and tap creation.
 
 ![ORIC Hires](https://img.shields.io/badge/ORIC-Hires%20240x200-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-MIT-yellow)R
 
 ## Features
 

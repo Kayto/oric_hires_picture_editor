@@ -1,0 +1,38 @@
+# Build outputs (PyInstaller artifacts)
+build/dev/
+build/release/temp/*
+!build/release/temp/.gitkeep
+build/release/*.spec
+*.spec
+
+# Executables (dev only - release exe is tracked)
+build/dev/**/*.exe
+
+# Archives
+*.zip
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+*.manifest
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor backup files
+*~
+*.bak
+*.swp
+
+# Temporary conversion outputs
+*.tmp
+
+# Standalone utility scripts (not needed by editor)
+samples/convert_picture.bat
+src/resize_for_oric.py

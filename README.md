@@ -101,13 +101,13 @@ samples/                # Sample .s files and images
 
 ## Acknowledgements
 
-This project relies on the **OSDK** (Oric Software Development Kit) by **Dbug (Defence Force)**:
+This project relies on the **OSDK** (Oric Software Development Kit) maintained by Mickael Pointier (aka Dbug) which includes multiple contributors:
 
 - **[OSDK](https://osdk.org/index.php?page=main)** — the toolchain for ORIC development
 - **PictConv** — image conversion tool; its `-f6` mode implements the **Img2Oric** algorithm for optimal ORIC hires colour conversion
 - **Oricutron** — ORIC emulator included with the OSDK distribution
 
-Thanks to Dbug and the Defence Force team for maintaining these tools and keeping ORIC development alive.
+Thanks to the OSDK team for maintaining these tools and keeping ORIC development alive.
 Please refer to the linked Acknowledgements [https://osdk.org/index.php?page=documentation&subpage=copyright]
 
 ## License

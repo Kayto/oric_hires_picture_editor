@@ -24,7 +24,7 @@ A visual pixel editor for the [Tangerine ORIC](https://en.wikipedia.org/wiki/Ori
 
 - **Python 3.8+** with **tkinter** (usually bundled with Python)
 - **[Pillow](https://pypi.org/project/Pillow/)** — `pip install Pillow` (required for Import and Compile)
-- **[OSDK 1.21](http://osdk.defence-force.org/)** — provides PictConv, Oricutron, and make.bat (required for Compile, Import, and Run in Emulator)
+- **[OSDK 1.21]([http://osdk.defence-force.org/](https://osdk.org/index.php?page=main)** — provides PictConv, Oricutron, and make.bat (required for Compile, Import, and Run in Emulator)
 - **[PyInstaller](https://pypi.org/project/pyinstaller/)** — `pip install pyinstaller` (only needed to build the standalone exe)
 
 | Mode | What you need | What works |

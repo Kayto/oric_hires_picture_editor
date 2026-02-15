@@ -111,5 +111,5 @@ Thanks to the OSDK team for maintaining these tools and keeping ORIC development
 Please refer to the linked Acknowledgements [https://osdk.org/index.php?page=documentation&subpage=copyright]
 
 ## License
-OSDK is subject to its own license model here [https://osdk.org/index.php?page=main], noting that my code whilst not distributed here relies on OSDK.
+OSDK is subject to its own license model here [https://osdk.org/index.php?page=main], noting that my code relies on OSDK which is not distributed here.
 MIT License for my code (as it is intended to act as standalone). See [LICENSE](LICENSE).
